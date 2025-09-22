@@ -1,8 +1,9 @@
 ## System.out.println(" 🧑‍💻Welcome to My GitHub....!💻");
 
-Hi, I’m Halashankara Swamy PBM 
+
 <div align="center">
-  <h5>A passionate Software Developer who loves turning ideas into scalable, impactful applications.</h5>
+  <h2>Hi, I’m Halashankara Swamy PBM </h2>
+  <h4>A passionate Software Developer who loves turning ideas into scalable, impactful applications.</h4>
 </div>
 
 💻 Tech Stack: Java | Spring Boot | Hibernate | React | MERN | SQL | Git/GitHub <br>
