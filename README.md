@@ -1,6 +1,9 @@
 ## System.out.println(" 🧑‍💻Welcome to My GitHub....!💻");
 
-Hi, I’m Halashankara Swamy PBM — a passionate Software Developer who loves turning ideas into scalable, impactful applications.
+Hi, I’m Halashankara Swamy PBM 
+<div align="center">
+  <h5>A passionate Software Developer who loves turning ideas into scalable, impactful applications.</h5>
+</div>
 
 💻 Tech Stack: Java | Spring Boot | Hibernate | React | MERN | SQL | Git/GitHub <br>
 🚀 What I Do: Build full-stack applications, craft clean code, and solve real-world problems with technology. <br>
