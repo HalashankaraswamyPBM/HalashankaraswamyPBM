@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my world of contributions
+
+Hello I am Halashankara Swamy PBM, a tech enthuasist and a passion developer exlporing new technologies everyday....!
 
 <!--
 **HalashankaraswamyPBM/HalashankaraswamyPBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
