@@ -20,6 +20,10 @@
   <img src="https://github.com/user-attachments/assets/9deee90a-1918-49fa-bb73-6a85f3499b85" alt="My Image" width="1000" height="200">
 </p>
 
+<p align="center">  
+  🙏 Thank you for visiting my GitHub! 🌟 <br>  
+  If you find my work helpful, please ⭐ star the repos and connect with me. 🚀  
+</p>
 
 
 
