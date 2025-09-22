@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">  
-  🙏 Thank you for visiting my GitHub! 🌟 <br>  
+  <bold>🙏 Thank you for visiting my GitHub! 🌟 </bold><br>  
   If you find my work helpful, please ⭐ star the repos and connect with me. 🚀  
 </p>
 
